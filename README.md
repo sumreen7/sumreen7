@@ -66,7 +66,7 @@ I'm passionate about leveraging **AI, data science, and automation** to solve co
 
 ## 🏆 Featured Projects
 
-### 🤖 [AI Workflow Orchestration Platform](https://github.com/sumreen7/ai-workflow-orchestration)
+### 🤖 [AI Workflow Orchestration Platform](https://github.com/sumreen7/ai-chief-of-staff)
 A distributed multi-agent AI system orchestrating 7+ autonomous agents with RAG pipelines and OAuth integrations.
 
 - **Tech Stack:** Python, LangChain, OpenAI API, Google Workspace APIs, Vector Embeddings
@@ -78,7 +78,7 @@ A distributed multi-agent AI system orchestrating 7+ autonomous agents with RAG 
 
 ---
 
-### 📊 [NVIDIA × CMU: Social Listening & Market Insights](https://github.com/sumreen7/nvidia-social-listening)
+### 📊 NVIDIA × CMU: Social Listening & Market Insights
 Large-scale NLP analysis project for NVIDIA GTC positioning strategy.
 
 - **Tech Stack:** Python, NLP, Sentiment Analysis, Tableau, Brandwatch
@@ -90,7 +90,7 @@ Large-scale NLP analysis project for NVIDIA GTC positioning strategy.
 
 ---
 
-### ✈️ [Naviyo: Adaptive AI Travel Partner](https://github.com/sumreen7/naviyo-travel-ai)
+### ✈️ [Naviyo: Adaptive AI Travel Partner](https://github.com/umgpy/naviyo)
 AI-powered travel planning platform with real-time itinerary adaptation.
 
 - **Tech Stack:** Python, LLM APIs, NLP, React, Weather APIs
