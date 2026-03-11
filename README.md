@@ -15,70 +15,58 @@ I'm passionate about leveraging **AI, data science, and automation** to solve co
 
 ## 💻 Tech Stack
 
-### 💻 Programming & Core Technologies
+### 💻 Programming
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Apex](https://img.shields.io/badge/-Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### 🤖 Generative AI & Machine Learning
+### 🧠 AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
-**Skills:** LLM Fine-tuning • RAG • Prompt Engineering • AI Agents • Tool Calling • MLOps
+**Skills:** RAG • LLM Fine-tuning • Prompt Engineering • AI Agents • Tool Calling
 
-### 📊 Data Engineering & Analytics
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+### 📊 Data Science & Analytics
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
-**Tools:** MLflow • Data Pipelines • ETL
+### ⚙️ Automation & Backend
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-### 🌐 Web & Application Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-**Tools:** Vercel AI SDK • Modern Web Development
+**Skills:** Workflow Automation • Data Pipelines • Microservices • API Integration
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 **Skills:** CI/CD • Containerization • Cloud-native Development
 
-### 🎨 Design & Product
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-**Skills:** UI/UX Design • Prototyping • Product Design
-
-### 🔧 Salesforce Ecosystem
+### 🔗 Platforms & Ecosystems
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![MuleSoft](https://img.shields.io/badge/-MuleSoft-00A2DF?style=for-the-badge&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Google APIs](https://img.shields.io/badge/-Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🤖 [AI Workflow Orchestration Platform](https://https://github.com/sumreen7/ai-chief-of-staff)
+### 🤖 [AI Workflow Orchestration Platform](https://github.com/sumreen7/ai-workflow-orchestration)
 A distributed multi-agent AI system orchestrating 7+ autonomous agents with RAG pipelines and OAuth integrations.
 
 - **Tech Stack:** Python, LangChain, OpenAI API, Google Workspace APIs, Vector Embeddings
@@ -90,7 +78,7 @@ A distributed multi-agent AI system orchestrating 7+ autonomous agents with RAG 
 
 ---
 
-### 📊 [NVIDIA × CMU: Social Listening & Market Insights]
+### 📊 [NVIDIA × CMU: Social Listening & Market Insights](https://github.com/sumreen7/nvidia-social-listening)
 Large-scale NLP analysis project for NVIDIA GTC positioning strategy.
 
 - **Tech Stack:** Python, NLP, Sentiment Analysis, Tableau, Brandwatch
@@ -102,7 +90,7 @@ Large-scale NLP analysis project for NVIDIA GTC positioning strategy.
 
 ---
 
-### ✈️ [Naviyo: Adaptive AI Travel Partner](https://github.com/umgpy/naviyo)
+### ✈️ [Naviyo: Adaptive AI Travel Partner](https://github.com/sumreen7/naviyo-travel-ai)
 AI-powered travel planning platform with real-time itinerary adaptation.
 
 - **Tech Stack:** Python, LLM APIs, NLP, React, Weather APIs
@@ -111,6 +99,19 @@ AI-powered travel planning platform with real-time itinerary adaptation.
   - Processed 50K+ travel reviews for safety scoring and sentiment
   - Achieved 84% classification accuracy through A/B testing with 200+ users
 - **Impact:** Personalized destination insights with real-time contextual signals
+
+---
+
+### 📊 [VSP Vision: Frame Assortment Intelligence](https://github.com/sumreen7/VSPVision_IntelligentAnalytics)
+End-to-end demand forecasting pipeline for eyewear retail assortment optimization.
+
+- **Tech Stack:** Python, XGBoost, Scikit-learn, Pandas, Time Series Analysis
+- **Key Features:**
+  - Built ML pipeline with 33 engineered features analyzing 910K+ units across 162 SKUs
+  - Achieved 0.737 R² using XGBoost with hyperparameter tuning and cross-validation
+  - Generated 14 data-driven product management recommendations
+  - [📱 Interactive HTML Report](https://sumreen7.github.io/VSPVision_IntelligentAnalytics/)
+- **Impact:** Identified $2.3K/SKU revenue opportunity through strategic assortment reallocation
 
 ---
 
@@ -154,16 +155,14 @@ Data-driven pricing strategy optimization using historical sales data.
 
 ## 💼 Professional Experience
 
-**Software Engineer @ Salesforce** (Jul 2023 - Aug 2025)
-- Built Python automation pipelines reducing manual operational effort by 65%
-- Implemented CI/CD pipelines with Jenkins & Docker
-- Developed AI-assisted workflows using LLM agents and RAG systems
-- Created automated testing frameworks with Robot Framework
+**Software Engineer @ Salesforce** (Jul 2023 - Aug 2025)  
+Built predictive analytics and automation workflows using Python, SQL, and APIs to optimize enterprise asset onboarding for 40K+ users.
 
-**Technical Program Operations Engineer @ Salesforce** (Jul 2023 - Aug 2025)
-- Led cross-functional initiatives improving system reliability
-- Designed monitoring tools reducing debugging time by 50%
-- Coordinated stakeholder alignment across engineering and operations
+**Product Analytics & Insights Intern @ SRM Films** (May 2023 - Jul 2023)  
+Analyzed engagement, retention, and churn metrics and developed dashboards to support data-driven content strategy.
+
+**Summer Analyst Intern @ Salesforce** (May 2022 - Jul 2022)  
+Developed automation pipelines integrating Slack and MuleSoft APIs to streamline enterprise onboarding workflows.
 
 ---
 
