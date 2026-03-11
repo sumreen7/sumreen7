@@ -179,7 +179,7 @@ Developed automation pipelines integrating Slack and MuleSoft APIs to streamline
 
 <div align="center">
   
-### 💡 "Making the world better, one project at a time"
+### 💡 "Making the world better one project at a time"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sumreen7&color=blueviolet&style=for-the-badge)
 
