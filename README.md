@@ -110,20 +110,6 @@ Data-driven pricing strategy optimization using historical sales data.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Sumreen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumreen7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumreen7&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumreen7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 ## 🎓 Education & Certifications
 
 **Carnegie Mellon University** | Master of Information Systems Management (MISM)  
@@ -145,11 +131,6 @@ Data-driven pricing strategy optimization using historical sales data.
 - Implemented CI/CD pipelines with Jenkins & Docker
 - Developed AI-assisted workflows using LLM agents and RAG systems
 - Created automated testing frameworks with Robot Framework
-
-**Technical Program Operations Engineer @ Salesforce** (Jul 2023 - Aug 2025)
-- Led cross-functional initiatives improving system reliability
-- Designed monitoring tools reducing debugging time by 50%
-- Coordinated stakeholder alignment across engineering and operations
 
 ---
 
