@@ -24,12 +24,14 @@ I'm passionate about leveraging **AI, data science, and automation** to solve co
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🧠 AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
 ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
 **Skills:** RAG • LLM Fine-tuning • Prompt Engineering • AI Agents • Tool Calling
@@ -39,12 +41,7 @@ I'm passionate about leveraging **AI, data science, and automation** to solve co
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-### ⚙️ Automation & Backend
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-**Skills:** Workflow Automation • Data Pipelines • Microservices • API Integration
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -60,6 +57,7 @@ I'm passionate about leveraging **AI, data science, and automation** to solve co
 ![MuleSoft](https://img.shields.io/badge/-MuleSoft-00A2DF?style=for-the-badge&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Google APIs](https://img.shields.io/badge/-Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
