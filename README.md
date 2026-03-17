@@ -88,7 +88,7 @@ Large-scale NLP analysis project for NVIDIA GTC positioning strategy.
 
 ---
 
-### 📊 Healthcare Claims — Medallion Architecture Pipeline
+### 🏥 Healthcare Claims — Medallion Architecture Pipeline
 End-to-end ETL pipeline on real insurance claims data using Bronze/Silver/Gold medallion architecture.
 * **Tech Stack:** Python, DuckDB, dbt, SQL, Tableau
 * **Key Features:**
