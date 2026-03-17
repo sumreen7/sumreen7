@@ -88,6 +88,18 @@ Large-scale NLP analysis project for NVIDIA GTC positioning strategy.
 
 ---
 
+### 📊 Healthcare Claims — Medallion Architecture Pipeline
+End-to-end ETL pipeline on real insurance claims data using Bronze/Silver/Gold medallion architecture.
+* **Tech Stack:** Python, DuckDB, dbt, SQL, Tableau
+* **Key Features:**
+   * Built Bronze → Silver → Gold pipeline ingesting 1,338 healthcare claims with zero data loss
+   * Kimball dimensional model with `dim_patient` and `fact_claims` tables using dbt
+   * 6 automated dbt data quality tests passing across all transformation layers
+   * 📱 [Interactive HTML Report](https://sumreen7.github.io/healthcare-medallion-pipeline/)
+* **Impact:** Identified smokers cost **3.8× more** in claims ($32,108 vs $8,415 avg) through Gold layer analytics
+ 
+---
+
 ### ✈️ [Naviyo: Adaptive AI Travel Partner](https://github.com/umgpy/naviyo)
 AI-powered travel planning platform with real-time itinerary adaptation.
 
