@@ -142,30 +142,6 @@ End-to-end demand forecasting pipeline for eyewear retail assortment optimizatio
 
 ---
 
-### 📈 [Stock Price Prediction Model](https://github.com/sumreen7/Stocks_Prediction_Project)
-Machine learning model for forecasting stock prices using technical indicators.
-
-- **Tech Stack:** Python, Scikit-learn, Pandas, Time Series Analysis
-- **Key Features:**
-  - Historical data processing and feature engineering
-  - LSTM and Random Forest ensemble modeling
-  - 85% prediction accuracy on test data
-- **Impact:** Demonstrated practical ML application in financial forecasting
-
----
-
-### 💰 [Cost Optimization & Price Elasticity Analysis](https://github.com/sumreen7/CostOptimization)
-Data-driven pricing strategy optimization using historical sales data.
-
-- **Tech Stack:** Python, Pandas, Statistical Analysis, Data Visualization
-- **Key Features:**
-  - Price elasticity modeling for revenue maximization
-  - Customer response prediction to price adjustments
-  - Actionable insights for pricing decisions
-- **Impact:** Enabled data-informed pricing strategies for business growth
-
----
-
 ## 🎓 Education & Certifications
 
 **Carnegie Mellon University** | Master of Information Systems Management (MISM)  
