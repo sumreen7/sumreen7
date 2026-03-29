@@ -8,7 +8,7 @@ I'm passionate about leveraging **AI, data science, and automation** to solve co
 
 🔭 **Currently working on:** AI workflow orchestration & multi-agent systems  
 🌱 **Learning:** Advanced ML techniques, cloud architecture, and product strategy  
-💬 **Ask me about:** Python automation, AI agents, data pipelines, or Salesforce development  
+💬 **Ask me about:** Python automation, AI agents, RAG systems, data pipelines, or Salesforce development  
 📫 **Reach me:** sumreenf@andrew.cmu.edu | [Portfolio](https://sumreen-portfolio.vercel.app/)
 
 ---
@@ -33,8 +33,11 @@ I'm passionate about leveraging **AI, data science, and automation** to solve co
 ![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
 ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-2D2D2D?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6F61?style=for-the-badge&logoColor=white)
 
-**Skills:** RAG • LLM Fine-tuning • Prompt Engineering • AI Agents • Tool Calling
+**Skills:** RAG (Naive + Agentic) • LLM Fine-tuning • Prompt Engineering • AI Agents • Tool Calling • RAGAS Evaluation
 
 ### 📊 Data Science & Analytics
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -64,11 +67,25 @@ I'm passionate about leveraging **AI, data science, and automation** to solve co
 
 ## 🏆 Featured Projects
 
+### 🔍 [Developer Documentation AI Assistant](https://github.com/sumreen7/developer-knowledge-rag)
+Production RAG system that lets developers ask natural language questions about documentation and receive grounded, source-cited answers — powered by a local LLM running entirely on your machine.
+
+- **Tech Stack:** Python, LangChain, LangGraph, Ollama (Mistral 7B), ChromaDB, SentenceTransformers, FastAPI, Streamlit, Docker, RAGAS
+- **Key Features:**
+  - **Naive + Agentic RAG** — two pipeline modes switchable via one env var. Naive retrieves once and generates. Agentic uses a ReAct agent that decides when and how to search, can perform multiple searches per question, and decomposes complex queries into sub-searches.
+  - End-to-end pipeline: document ingestion → chunking → embedding → vector search → LLM answer with source citations
+  - RAGAS evaluation: **faithfulness 1.0**, context precision 1.0, overall 0.819
+  - 63 automated tests, Docker deployment, Streamlit chat UI with live health monitoring
+- **Impact:** Zero hallucination (faithfulness 1.0) — every answer traces back to a specific document chunk
+- 📘 [Interactive Guide →](https://sumreen7.github.io/developer-knowledge-rag/)
+
+---
+
 ### 🤖 [AI Workflow Orchestration Platform](https://github.com/sumreen7/ai-chief-of-staff)
 A distributed multi-agent AI system orchestrating 7+ autonomous agents with RAG pipelines and OAuth integrations.
 
 - **Tech Stack:** Python, LangChain, OpenAI API, Google Workspace APIs, Vector Embeddings
-- **Key Features:** 
+- **Key Features:**
   - Event-driven workflow engine for Gmail, Calendar, and Notion integration
   - RAG-based knowledge retrieval with structured JSON outputs
   - Reduced manual productivity tasks by 80%
@@ -88,7 +105,7 @@ Large-scale NLP analysis project for NVIDIA GTC positioning strategy.
 
 ---
 
-### 🏥 Healthcare Claims — Medallion Architecture Pipeline
+### 🏥 [Healthcare Claims — Medallion Architecture Pipeline](https://github.com/sumreen7/healthcare-medallion-pipeline)
 End-to-end ETL pipeline on real insurance claims data using Bronze/Silver/Gold medallion architecture.
 * **Tech Stack:** Python, DuckDB, dbt, SQL, Tableau
 * **Key Features:**
@@ -97,7 +114,7 @@ End-to-end ETL pipeline on real insurance claims data using Bronze/Silver/Gold m
    * 6 automated dbt data quality tests passing across all transformation layers
    * 📱 [Interactive HTML Report](https://sumreen7.github.io/healthcare-medallion-pipeline/)
 * **Impact:** Identified smokers cost **3.8× more** in claims ($32,108 vs $8,415 avg) through Gold layer analytics
- 
+
 ---
 
 ### ✈️ [Naviyo: Adaptive AI Travel Partner](https://github.com/umgpy/naviyo)
@@ -129,7 +146,7 @@ End-to-end demand forecasting pipeline for eyewear retail assortment optimizatio
 Machine learning model for forecasting stock prices using technical indicators.
 
 - **Tech Stack:** Python, Scikit-learn, Pandas, Time Series Analysis
-- **Key Features:** 
+- **Key Features:**
   - Historical data processing and feature engineering
   - LSTM and Random Forest ensemble modeling
   - 85% prediction accuracy on test data
@@ -190,7 +207,7 @@ Developed automation pipelines integrating Slack and MuleSoft APIs to streamline
 ---
 
 <div align="center">
-  
+
 ### 💡 "Making the world better one project at a time"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sumreen7&color=blueviolet&style=for-the-badge)
